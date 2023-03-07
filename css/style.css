@@ -468,6 +468,7 @@ button:focus,
 .content-item h4 {
   margin: 0;
   line-height: 1;
+  margin-bottom: 10px;
 }
 .content-item small {
   color: #888888;
